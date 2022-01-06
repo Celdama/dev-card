@@ -1,5 +1,6 @@
 import React from 'react';
 import Avatar from '../celdama.png';
+import MailIcon from '../mail.svg';
 
 const Info = () => {
   return (
@@ -8,7 +9,10 @@ const Info = () => {
       <h3>Celdama Dev</h3>
       <h5>Frontend Developer</h5>
       <p>celdama.dev.website</p>
-      <button>Email</button>
+      <button>
+        <img src={MailIcon} alt='mail-icon' />
+        Email
+      </button>
     </div>
   );
 };
