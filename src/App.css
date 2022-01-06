@@ -20,7 +20,8 @@ body {
 }
 
 .info,
-.about {
+.about,
+.interests {
   background-color: #1a1b21;
 }
 
@@ -62,12 +63,19 @@ body {
   padding: 33px;
 }
 
-.about > h2 {
+.interests {
+  text-align: left;
+  padding: 0px 33px 33px 33px;
+}
+
+.about > h2,
+.interests > h2 {
   font-size: 16px;
   color: #f5f5f5;
 }
 
-.about > p {
+.about > p,
+.interests > p {
   margin-top: 4px;
   color: #dcdcdc;
   font-size: 11px;
