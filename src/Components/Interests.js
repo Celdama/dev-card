@@ -5,8 +5,8 @@ const Interests = ({ title }) => {
     <div className='interests'>
       <h2>{title}</h2>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.Sequi doloremque
+        animi aperiam reiciendis harum rem voluptatem accusantium modi vel iure
       </p>
     </div>
   );

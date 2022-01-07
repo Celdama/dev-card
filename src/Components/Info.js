@@ -8,7 +8,7 @@ const Info = () => {
       <img src={Avatar} alt='celdama-avatar' />
       <h3>Celdama Dev</h3>
       <h5>Frontend Developer</h5>
-      <p>celdama.dev.website</p>
+      <p>celdama.dev@gmail.com</p>
       <button>
         <img src={MailIcon} alt='mail-icon' />
         Email
